@@ -1,0 +1,69 @@
+,0
+cccbaaaaaabb,"[0, 3072, 4032, 7392, 11712]"
+bccccccccccc,"[96, 7488]"
+cccccccccccc,"[192, 672, 768, 864, 960, 1440, 1536, 2112, 2208, 2784, 2880, 3456, 3552, 4128, 4224, 4608, 4704, 4800, 4896, 5472, 5568, 5664, 6336, 6816, 6912, 7584, 8160, 8256, 8832, 8928, 9504, 9600, 10176, 10272, 10848, 10944, 11520, 11616, 12288, 12864, 12960, 13536, 13632, 14208, 14304, 14880, 14976, 15552, 15648, 16224, 16320, 16992, 17088, 17568, 17664, 18240, 18336, 18912, 19008, 19584, 19680, 20256, 20352, 20928, 21024, 21600, 21696]"
+cccaaaaaabbc,"[288, 1056, 1152, 2592, 2688, 2976, 7680, 20160, 21216, 21792]"
+cccaaaaaaabb,"[384, 2304, 12480, 20448]"
+bbcbaaaaabbb,"[480, 5280, 18048]"
+cccaaaaaabbb,"[576, 1344, 2016, 3264, 3360, 6048, 18432]"
+cccaaaaaabcc,"[1248, 1632, 17760]"
+cccbaaaaabcc,"[1728, 3840, 7296, 8352, 13152, 18528, 19104, 19200]"
+cccbaaaaabbb,"[1824, 5856, 6432, 17856, 19776, 19872, 20640, 21888]"
+bccaaaaaabcc,"[1920, 2400]"
+cccbaaaabccc,"[2496, 3744, 4512, 11424, 18624]"
+bccaaaaaabbb,"[3168, 5952, 22080]"
+cccaaaaabbcc,"[3648, 4320, 20064]"
+cccbaaaabbcc,"[3936, 4416, 5760, 13056, 15744, 19392, 19488]"
+cccbaaaabbbb,"[4992, 5088, 6624, 6720, 14592, 14784, 17184, 21504]"
+bccbaaaabbbb,"[5184, 13920, 15360, 16032, 16608]"
+cccaaaaabbbc,"[5376, 13248]"
+ccccccccccbb,[6144]
+bcccccbbbccc,[6240]
+bbcbaaaaabcc,[6528]
+cccbaaaabbcb,[7008]
+cccbbaaabccc,[7104]
+cccbbaaaabbc,"[7200, 15840]"
+ccccbaaaabbb,[7776]
+cccbbaaabbcc,"[7872, 13728, 15456]"
+ccccbaaabccc,"[7968, 8064]"
+cccbbaaaaaab,[8448]
+bbbbaaaabbcc,[8544]
+ccccbaaabbcc,[8640]
+ccccbbabbbcc,[8736]
+cccccbbbcccc,"[9024, 9120, 10080]"
+ccccccaabccc,[9216]
+ccccccbbcccc,"[9312, 9408, 10464]"
+ccccbaabbbcc,"[9696, 10368]"
+ccccaaaabbbc,"[9792, 19296]"
+ccccaaaabbbb,[9888]
+ccccababcccc,[9984]
+cccccbbccccc,"[10560, 10752]"
+ccccbcbccccc,[10656]
+ccccbbbbbccc,[11040]
+cccbbbaabbcc,[11136]
+ccccbaaabbbc,"[11232, 13440]"
+cccaaaaabbbb,"[11328, 16416]"
+bcccaaaabbbc,[11808]
+cccaaaaaaaab,"[11904, 20736]"
+bbcaaaaaaabb,[12000]
+bbcaaaaaaaab,[12096]
+bbcccccccccc,[12192]
+cccaaaaababc,[12384]
+bccbaaaaaabb,"[12576, 17952, 18144]"
+bccaaaaaaabb,"[12672, 21984]"
+bccbbaaabbcc,[12768]
+ccccaaaabbcc,[13344]
+cccbbaaabbbb,"[13824, 14016, 14400, 15072, 15168, 15936]"
+bccbaaaabbbc,"[14112, 14496]"
+bccbbaaabbbc,[14688]
+bccbaaaaabbb,"[15264, 17280, 17376, 20544]"
+bbccbaaabbbb,[16128]
+bbcbaaaabbbb,[16512]
+bbbbaaaabbbb,[16704]
+cccabaaabbbb,[16800]
+cccccccbcccc,[16896]
+bccbbaaabbbb,[17472]
+cccbaaaabbbc,"[18720, 21312, 21408]"
+cccbaaaaabbc,"[18816, 19968]"
+bbccaabbbbbc,[20832]
+ccccbbbbbbbc,[21120]

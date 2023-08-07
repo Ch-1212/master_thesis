@@ -1,0 +1,3 @@
+# ignore personal workspace
+.idea/workspace.xml
+.pytest_cache/*
